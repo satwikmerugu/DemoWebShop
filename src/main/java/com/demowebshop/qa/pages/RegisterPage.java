@@ -56,7 +56,7 @@ public class RegisterPage {
 		
 		FirstName.sendKeys(FirstNameValue);
 		LastName.sendKeys(LastNameValue);
-		//Email.sendKeys(EmailValue);
+		Email.sendKeys(EmailValue);
 		Password.sendKeys(PasswordValue);
 		ConfirmPassword.sendKeys(ConfirmPasswordValue);
 		
